@@ -1,0 +1,11 @@
+CAT,Ragdoll,Orange,8lbs
+DOG,Rotweiller,Black,98lbs
+HORSE,Belgian,brown,1800lbs
+DOG,Poodle,Brown,22lbs
+HORSE,Clydesdale,brown,2200lbs
+BAT,Vampire,Black,4lbs
+COW,Milk,Brown,2000lbs
+CAT,Sphynx,White,9lbs
+DOG,Husk,Grey,68lbs
+DOG,Doberman,Black,78lbs
+CAT,Abyssinian,Grey,11lbs
